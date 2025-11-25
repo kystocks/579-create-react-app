@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "Application Test",
+      "setup": "npm install",
+      "run": "npm run local:run",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": null
+    },
+    {
+      "name": "Component Test",
+      "setup": "npm install",
+      "run": "npm run local:component",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 5,
+      "points": null
+    }
+  ]
+}
